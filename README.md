@@ -451,6 +451,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"HTTP를 쓰는 것과, TCP가 어떻게 연결을 맺고 끊는지 아는 것은 다르다"*
+**"HTTP를 쓰는 것과, TCP가 어떻게 연결을 맺고 끊는지 아는 것은 다르다"**
 
 </div>
